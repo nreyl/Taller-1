@@ -81,7 +81,7 @@ public class Surtidor
     /**
      * Retorna el objeto con la descripción completa del tipo de gasolina seleccionado
      * @param nombreTipoGasolina El nombre del tipo de gasolina
-     * @return Un objeto de tipo TipoGasolina o null si el nombre no existe
+     * @return Un objeto de tipo TipoGasolina o null si el nombre no existe 
      */
     public TipoGasolina getTipoGasolina( String nombreTipoGasolina )
     {
